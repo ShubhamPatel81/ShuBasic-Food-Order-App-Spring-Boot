@@ -10,3 +10,5 @@ The app allows users to browse and purchase products, while the admin has specif
 ![Screenshot](src/main/resources/static/Screenshots/2.png)
 ![Screenshot](src/main/resources/static/Screenshots/3.png)
 ![Screenshot](src/main/resources/static/Screenshots/4.png)
+![Screenshot](src/main/resources/static/Screenshots/5.png)
+![Screenshot](src/main/resources/static/Screenshots/6.png)
